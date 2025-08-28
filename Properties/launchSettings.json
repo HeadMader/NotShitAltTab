@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "NotShitAltTab (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "NotShitAltTab (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
